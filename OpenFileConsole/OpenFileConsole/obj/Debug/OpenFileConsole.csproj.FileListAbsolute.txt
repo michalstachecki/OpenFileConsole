@@ -1,0 +1,7 @@
+C:\Users\michal.stachecki\source\repos\OpenFileConsole\OpenFileConsole\bin\Debug\OpenFileConsole.exe.config
+C:\Users\michal.stachecki\source\repos\OpenFileConsole\OpenFileConsole\bin\Debug\OpenFileConsole.exe
+C:\Users\michal.stachecki\source\repos\OpenFileConsole\OpenFileConsole\bin\Debug\OpenFileConsole.pdb
+C:\Users\michal.stachecki\source\repos\OpenFileConsole\OpenFileConsole\obj\Debug\OpenFileConsole.csprojAssemblyReference.cache
+C:\Users\michal.stachecki\source\repos\OpenFileConsole\OpenFileConsole\obj\Debug\OpenFileConsole.csproj.CoreCompileInputs.cache
+C:\Users\michal.stachecki\source\repos\OpenFileConsole\OpenFileConsole\obj\Debug\OpenFileConsole.exe
+C:\Users\michal.stachecki\source\repos\OpenFileConsole\OpenFileConsole\obj\Debug\OpenFileConsole.pdb
